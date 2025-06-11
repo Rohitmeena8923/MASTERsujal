@@ -13,15 +13,15 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "26330942",
+            "description": "Enter your Telegram API ID.",
             "required": true
         },
         "API_HASH": {
-            "description": "5de9fd033aa828dfd3bf0c28adeee660",
+            "description": "Enter your Telegram API Hash.",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "8157250784:AAEA7CZdV2HkAmRFFG_8cLt9eY9eUT3I2Pk",
+            "description": "Enter your Telegram Bot Token.",
             "required": true
         },
         "AUTH_USERS": {
