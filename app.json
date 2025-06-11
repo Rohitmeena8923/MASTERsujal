@@ -1,31 +1,31 @@
 
 {
-    "name": " 𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎",
+    "name": " ♡₊˚Sujal˚₊♡",
     "description": "Download videos from various websites using this Telegram bot.",
-    "logo": "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
+    "logo": "https://i.ibb.co/h1h6Pmfq/e31f7cff3217.jpg",
     "keywords": [
         "drm-video-dl",
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/nikhilsainiop/Masteruploader",
-    "success_url": "https://github.com/nikhilsainiop/Masteruploader",
+    "repository": "https://github.com/sujalchavdaa/MASTERsujal",
+    "success_url": "https://github.com/sujalchavdaa/MASTERsujal",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter your Telegram API ID.",
+            "description": "26330942",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter your Telegram API Hash.",
+            "description": "5de9fd033aa828dfd3bf0c28adeee660",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your Telegram Bot Token.",
+            "description": "8157250784:AAEA7CZdV2HkAmRFFG_8cLt9eY9eUT3I2Pk",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Enter your authorized user IDs, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
+            "description": "Enter your authorized user IDs, e.g., 6883471516,5788624763,...(Seprate by Comma) ",
             "required": true
         }
     },
