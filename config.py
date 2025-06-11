@@ -7,4 +7,4 @@ class Config(object):
     AUTH_USER = os.environ.get('AUTH_USERS', '6883471516').split(',')
     AUTH_USERS = [int(user_id) for user_id in AUTH_USER]
     HOST = "https://drm-api-six.vercel.app"
-    CREDIT = "🆂🆄🅹🅰🅻"
+    CREDIT = " 🆂🆄🅹🅰🅻"
